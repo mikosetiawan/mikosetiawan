@@ -7,7 +7,7 @@
 I'm Mikosetiawan, a passionate and powerful Full Stack Developer.
 
 🔭 I’m currently working as a Freelance Developer  
-🌱 I’m currently learning in Dicoding  
+🌱 I’m CEO @growdiginusantara  
 👯 I’m looking to collaborate on exciting projects  
 ⚡ Fun fact: I believe in the power of coding to transform ideas into reality!
 
@@ -33,6 +33,6 @@ I'm Mikosetiawan, a passionate and powerful Full Stack Developer.
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_mikodev)
 
 ### Portfolio
-Explore my portfolio: [mikosetiawan.github.io/myPortfolio](https://mikosetiawan.github.io/myPortfolio)
+Explore my portfolio: [mikosetiawan.github.io/myPortofolio](https://mikosetiawan.github.io/myPortofolio)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 😊
