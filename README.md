@@ -4,7 +4,7 @@
 **mikosetiawan/mikosetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Mikosetiawan, a passionate and powerful Full Stack Developer.
+## I'm Mikosetiawan, a passionate and powerful Full Stack Developer.
 
 🔭 I’m currently working as a Freelance Developer  
 🌱 I’m CEO @growdiginusantara  
