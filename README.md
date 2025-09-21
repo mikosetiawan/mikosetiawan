@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-purple?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Flutter]([https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white](https://img.shields.io/badge/-Flutter-0095D5?style=flat&logo=flutter&logoColor=white))
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
