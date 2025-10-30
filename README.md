@@ -23,7 +23,7 @@
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-FF2D20?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-03a9f4?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-FF2D20?style=flat&logo=dart&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Midtrans](https://img.shields.io/badge/-Midtrans-FF7F00?style=flat)
