@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-03a9f4?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-FF2D20?style=flat&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-04599c?style=flat&logo=dart&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Midtrans](https://img.shields.io/badge/-Midtrans-FF7F00?style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
