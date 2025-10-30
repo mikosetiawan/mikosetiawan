@@ -34,7 +34,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikosetiawan/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_mikodev)
 
-### Portfolio
-Explore my portfolio: [mikosetiawan.github.io/myPortofolio](https://mikosetiawan.github.io/myPortofolio)
-
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 😊
