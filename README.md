@@ -28,7 +28,7 @@
 ![Midtrans](https://img.shields.io/badge/-Midtrans-FF7F00?style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4479A1?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00e862?style=flat&logo=mongodb&logoColor=white)
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikosetiawan/)
